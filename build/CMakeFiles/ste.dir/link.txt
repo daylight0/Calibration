@@ -1,0 +1,1 @@
+/usr/bin/clang++-11 -g -rdynamic CMakeFiles/ste.dir/monoCalibration.cpp.o -o /home/wh/slam/Calibration/bin/ste   -L/usr/local/cuda-11.6/lib64 

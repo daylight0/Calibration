@@ -1,0 +1,1 @@
+/usr/bin/clang++-11 -g -rdynamic CMakeFiles/ster.dir/stereo.cpp.o -o /home/wh/slam/Calibration/bin/ster 

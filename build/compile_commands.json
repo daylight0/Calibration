@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/wh/slam/Calibration/build",
+  "command": "/usr/bin/clang++-11  -I/usr/local/include/opencv4/opencv2 -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/wh/slam/Calibration/src/main.cpp",
+  "file": "/home/wh/slam/Calibration/src/main.cpp"
+},
+{
+  "directory": "/home/wh/slam/Calibration/build",
+  "command": "/usr/bin/clang++-11  -I/usr/local/include/opencv4/opencv2 -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/stereo.dir/stereo.cpp.o -c /home/wh/slam/Calibration/src/stereo.cpp",
+  "file": "/home/wh/slam/Calibration/src/stereo.cpp"
+},
+{
+  "directory": "/home/wh/slam/Calibration/build",
+  "command": "/usr/bin/clang++-11  -I/usr/local/include/opencv4/opencv2 -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/mono.dir/mono.cpp.o -c /home/wh/slam/Calibration/src/mono.cpp",
+  "file": "/home/wh/slam/Calibration/src/mono.cpp"
+},
+{
+  "directory": "/home/wh/slam/Calibration/build",
+  "command": "/usr/bin/clang++-11  -I/usr/local/include/opencv4/opencv2 -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/monocali.dir/monoCalibration.cpp.o -c /home/wh/slam/Calibration/src/monoCalibration.cpp",
+  "file": "/home/wh/slam/Calibration/src/monoCalibration.cpp"
+},
+{
+  "directory": "/home/wh/slam/Calibration/build",
+  "command": "/usr/bin/clang++-11  -I/usr/local/include/opencv4/opencv2 -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/stereoCalibration.dir/stereoCalibration.cpp.o -c /home/wh/slam/Calibration/src/stereoCalibration.cpp",
+  "file": "/home/wh/slam/Calibration/src/stereoCalibration.cpp"
+}
+]
